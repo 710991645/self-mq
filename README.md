@@ -1,1 +1,1 @@
-# self-redis
+# self-mq
